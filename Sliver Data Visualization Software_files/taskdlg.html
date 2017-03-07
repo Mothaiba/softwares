@@ -1,0 +1,103 @@
+
+<!-- saved from url=(0128)chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/com/taskdlg.htm?native=0&page_title=Sliver%20Data%20Visualization%20Software -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>Chrono - &lt;span i18n-text="titleNewTaskDialog"&gt;New Task&lt;/span&gt;</title>
+    <script type="text/javascript" src="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/libs/jquery-2.1.0.min.js"></script>
+    <!--script type="text/javascript" src="../libs/jquery.autoarea.js"></script-->
+    <script type="text/javascript" src="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/libs/jquery.numeric.js"></script>
+    <script type="text/javascript" src="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/com/uihelper.js"></script>
+    <script type="text/javascript" src="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/com/taskdlg.js"></script>
+    <script type="text/javascript" src="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/com/i18n.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/com/taskdlg.css">
+	<link rel="stylesheet" type="text/css" href="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/libs/chrome-bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="chrome-extension://mciiogijehkdemklbdcbfkefimifhecn/libs/simptip.css">
+
+    <!-- stat for content script >
+    <script type="text/javascript" src="ga.js"></script-->
+</head>
+<body class="chrome-bootstrap unselectable" style="font-size: 12px;">
+    <div class="overlay">
+    <div class="page">
+        <h1 style="text-align: center;">
+            <span>New Task</span>
+            <a class="close-button"></a>
+        </h1>
+        <div class="content-area" style="overflow: visible;"> <!--hardcode for tips-->
+            <form class="dy_new_task_dlg">
+            <table>
+                <tbody><tr>
+                    <td class="dy_field_label">
+                        <span>URL</span><span class="simptip-position-right" data-tooltip="You can enter multiple URLs separated by new lines; you can start batch downloads by using the Batch Descriptors.">?</span>
+                    </td>
+                    <td>
+                        <textarea rows="1" name="url"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="dy_field_label">
+                        <span>Naming Mask</span><span class="simptip-position-right" data-tooltip="Please refer to Help page for usage of Naming Masks.">?</span>
+                    </td>
+                    <td>
+                        <input type="text" name="naming" list="naming_history" placeholder="Automatic">
+                        <datalist id="naming_history"><option value="*name*.*ext*"></option><option value="*text*.*ext*"></option><option value="*title*.*ext*"></option><option value="*page_title*.*ext*"></option></datalist>
+                    </td>
+                </tr>
+                <!--tr class="native_only">
+                    <td class="dy_field_label" i18n-text="fieldFolder">
+                        Folder
+                    </td>
+                    <td>
+                        <datalist id="path_history">
+                        </datalist>
+                        <input type="text" name="folder" list="path_history" />
+                        <input type="button" name="path_btn" value="..." />
+                    </td>
+                </tr-->
+                <tr>
+                    <td class="dy_field_label">Referer</td>
+                    <td>
+                        <input type="text" name="referer">
+                    </td>
+                </tr>
+                <!--tr class="native_only">
+                    <td class="dy_field_label" i18n-text="fieldThreads">
+                        Parts
+                    </td>
+                    <td>
+                        <input type="number" min="1" max="20" name="threads" required="required">&nbsp&nbsp(1-20)
+                    </td>
+                </tr-->
+                <tr>
+                    <td class="dy_field_label">Remarks</td>
+                    <td>
+                        <textarea name="desc"></textarea>
+                        <input type="hidden" name="title">
+                        <input type="hidden" name="text" value="User&#39;s Manual...">
+                    </td>
+                </tr>
+            </tbody></table>
+            <div style="margin-right: 5px; margin-top: 10px; text-align: right">
+                <label>
+                    <span style="margin-right: 5px">Add to top of the queue</span>
+                    <input type="checkbox" name="addtop">
+                </label>
+            </div>
+            </form>
+			<div id="error_msg">              
+            </div>
+        </div>
+        <div class="action-area" style="padding:9px 17px 14px 17px">
+            <div class="action-area-right">
+                <div class="button-strip">
+                    <button class="dlg_start_btn">Start!</button>
+                    <button class="dlg_apause_btn">Add Paused</button>
+                    <button class="dlg_cancel_btn">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+</body></html>
