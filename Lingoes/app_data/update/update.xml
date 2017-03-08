@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<update time="2015-10-06 01:01:01" version="0">
+  <upnow method="GET" url="http://www.lingoes.net/update/19/upnow19.xml" md5="EFDB39E465B5EB343B387D2F97F5F50C" />
+  <upgrade id="" program="" file="" now="" desc="" />
+  <Info>
+    <item lang="en">
+      <tip>
+        <![CDATA[]]>
+      </tip>
+      <content>
+        <![CDATA[
+				<div id="startpage" cellspacing="0" cellpadding="0" style="padding:15px 15px 0px 15px; font-family:'Tahoma', 'Arial'; font-size:12px; line-height:150%; color:#808080">
+					<div><img border="0" src="[$ImgPath]s.png" width="500" height="1"></div>
+					<div nowrap style="clear:both; width:100%">
+						<img border="0" src="[$ImgPath]logo36.png" width="36" height="36" align="left" style="margin-right:10px">
+						<div>
+							<div style="line-height:120%">
+								<a class="blue" href="app://help/">Help</a> | 
+								<a class="blue" href="app://downdict/">Dictionaries</a> | 
+								<a class="blue" href="app://downspeech/">Speech</a> | 
+								<a class="blue" href="app://community/">Support</a> |
+								<a class="blue" href="app://download/" style="font-size:11px">V[$Version]-[$Area]</a>
+							</div>
+							<div nowrap style="width:100%; margin-top:3px">
+								<div class="lgsp_toolbutton" title="Currency Converter" onclick="window.navigate('app://appendix/rate')"><img border="0" src="[$ImgPath]download\rate.png" width="16" height="16" align="absmiddle"> Currencies</div>
+								<div class="lgsp_toolbutton" title="Weights &amp; Measures Converter" onclick="window.navigate('app://appendix/measures')"><img border="0" src="[$ImgPath]download\measures.png" width="16" height="16" align="absmiddle"> Measurements</div>
+								<div class="lgsp_toolbutton" title="International Dialing Codes" onclick="window.navigate('app://appendix/dialcode')"><img border="0" src="[$ImgPath]download\dialcode.png" width="16" height="16" align="absmiddle"></div>
+								<div class="lgsp_toolbutton" title="International Time Zone Converter" onclick="window.navigate('app://appendix/timezone')"><img border="0" src="[$ImgPath]download\timezone.png" width="16" height="16" align="absmiddle"></div>
+								<div class="lgsp_toolbutton" title="International Phonetic Alphabet" onclick="window.navigate('app://appendix/ipa')"><img border="0" src="[$ImgPath]download\ipa.png" width="16" height="16" align="absmiddle"></div>
+								<div class="lgsp_toolbutton" title="Periodic Table of the Elements" onclick="window.navigate('app://appendix/ptoe')"><img border="0" src="[$ImgPath]download\ptoe.png" width="16" height="16" align="absmiddle"></div>
+								<div style="clear:both"></div>
+							</div>
+						</div>
+					</div>
+
+					<div nowrap style="clear:both; width:100%; margin-top:10px; line-height:120%">
+						<div id="lgsp_panel_head_0" class="lgsp_panel_sel" onclick="lgspSelectPanel(0, 'lgsp_panel_', 'lgsp_panel_');">Latest Update</div>
+						<div id="lgsp_panel_head_1" class="lgsp_panel_nosel" onclick="lgspSelectPanel(1, 'lgsp_panel_', 'lgsp_panel_');">Recommend</div>
+						<div id="lgsp_panel_head_2" class="lgsp_panel_nosel" onclick="lgspSelectPanel(2, 'lgsp_panel_', 'lgsp_panel_');">Multi-language 1</div>
+						<div id="lgsp_panel_head_3" class="lgsp_panel_nosel" onclick="lgspSelectPanel(3, 'lgsp_panel_', 'lgsp_panel_');">2</div>
+						<div class="lgsp_panel_sp" style="text-align:right">&nbsp;</div>
+						<div style="clear:both"></div>
+					</div>
+					<div style="clear:both; border-left: 1px solid #DCE7F4; border-right: 1px solid #DCE7F4; border-bottom: 1px solid #DCE7F4; background-color:#ffffff">
+						<div id="lgsp_panel_0" nowrap style="display:; padding:10px; line-height:200%">
+							<div>
+								<table border="1" width="465" height="59" cellspacing="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#EEEEEE" style="margin-bottom:5px" background="[$ImgPath]download\linkbox.png">
+									<tr>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=A1')" title="A1: SourceForge.net: Find, Create, and Publish Open Source software for free"><img border="0" src="[$ImgPath]download\sourceforge.gif" width="28" height="28"></td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=B1')" title="B1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=C1')" title="C1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=D1')" title="D1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=E1')" title="E1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=F1')" title="F1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=G1')" title="G1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=H1')" title="H1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=J1')" title="J1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=K1')" title="K1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=L1')" title="L1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=M1')" title="M1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=N1')" title="N1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=P1')" title="P1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=Q1')" title="Q1: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=R1')" title="R1: Free software download,Over 200000 software free downloads"><img border="0" src="[$ImgPath]download\brothersoft.gif" width="28" height="28"></td>
+									</tr>
+									<tr>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=A2')" title="A2: Post your ad here"></td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=B2')" title="B2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=C2')" title="C2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=D2')" title="D2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=E2')" title="E2: O'Reilly Media - Technology Books, Tech Conferences, IT Courses, News"><img border="0" src="[$ImgPath]download\oreilly.gif" width="28" height="28"></td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=F2')" title="F2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=G2')" title="G2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=H2')" title="H2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=J2')" title="J2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=K2')" title="K2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=L2')" title="L2: Icon Archive - Search through 277,068 icons / 1,429 iconsets"><img border="0" src="[$ImgPath]download\iconarchive.gif" width="28" height="28"></td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=M2')" title="M2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=N2')" title="N2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=P2')" title="P2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=Q2')" title="Q2: Post your ad here"> </td>
+										<td width="28" height="28" style="cursor:hand" onclick="window.navigate('http://www.lingoes.net/en/adbox/golink.php?box=R2')" title="R2: Post your ad here"> </td>
+									</tr>
+								</table>
+							&bull; &nbsp;<a class="blue" href="app://downdict/317097B6E814E043839A3467BA8F4CCE">Wikipedia English</a> &bull;
+								<a class="blue" href="app://downdict/12D98EC3940843498672A92149455292">WordNet English Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/12D98EC3940843498672A92149455292">ADO's Italian-German Dictionary</a>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/0B5A0C0FD3752E4FBEDFCBB81D8FA582">Bloomberg Financial Glossary</a> &bull;
+								<a class="blue" href="app://downdict/95F84E99F6A3F44584A27E33648796BF">American Heritage Dictionary Online</a> <sup><font color="#FF0000">new</font></sup>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/A037A6BE5845D94CAF4D1BFCD2A5F4B4">Naver English-Korean</a> / 
+								<a class="blue" href="app://downdict/5E6AC89562AE4F4FB166B4C974C5225A">Korean-English</a> &nbsp;
+								<a class="blue" href="app://downdict/376C9765D3D9634A80503B39DEF7113A">English-Croatian Dictionary</a>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/1E26719B68113541B10EE2D422C6483F">English Word Roots and Combining Forms</a> /
+								<a class="blue" href="app://downdict/6F44D35734E4AB4487D99B3B7228D3E2">Idioms</a> /
+								<a class="blue" href="app://downdict/A2336E0615967945A94F3F740C920890">Slang</a> /
+								<a class="blue" href="app://downdict/A5C39C75B752F543B6B0B91684B05BFF">Abbreviations</a>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/955D2BA6147AF449A76DB3529E1B0046">Collins First School Dictionary</a> &nbsp;
+								<a class="blue" href="app://downdict/064BC0137E704247895C401855B9321C">MacMillan English Dictionary</a>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/687C79C9CA647F4B89D4F007ED9BA68A">Webster's Unabridged Dictionary</a> &nbsp;
+								<a class="blue" href="app://downdict/271E2E9D04D3424DB4D9A9AA4F122E8D">Webster's New World Essential Vocabulary</a>
+								<br/>
+							&bull; &nbsp;<a class="blue" href="app://downdict/DD900E7D1A47994CB52F0BFC7C75D11E">Merriam-Webster's Collegiate Dictionary</a> &nbsp;
+								<a class="blue" href="app://downdict/4B1D7BC91092A64389A3D10C8106F22B">Dictionnaire de la langue française (Littré)</a>
+								<br/>
+							</div>
+							<table border="0" cellspacing="0" cellpadding="0" style="margin-top:6px">
+								<tr>
+									<td width="120"><div style="border: 1px solid #E3E3E3"><a href="http://www.opanda.com/"><img border="0" src="[$ImgPath]download\opanda.gif" width="120" height="40" align="absmiddle" title="Opanda Studio - Professional photography software (DigitalFilm, PowerExif Editor, IExif Viewer, PhotoFilter)"></a></div></td>
+									<td width="30">  </td>
+									<td>
+										<div><a class="blue" href="http://www.lingoes.net/en/dictionary/dict_update.php?page=1&order=1"><b>More dictionaries...</b></a></div>
+										<div nowrap style="margin-top:8px"><img border="0" src="[$ImgPath]download\brother.png" width="60" height="16" align="absmiddle">&nbsp; <a href="http://www.brothersoft.com/?referral=lingoes"><u>Free software download</u></a></div>
+									</td>
+								</tr>
+							</table>
+						</div>
+						<div id="lgsp_panel_1" style="display:none; padding:10px; line-height:200%">
+							Premium :&nbsp; <a class="blue" href="app://downdict/3253C2A669C4DB4F8508B5FC4A017DDE">Oxford Advanced Learner's Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/3F20D028F2130549829DEE2F93AC7E13">Oxford Collocations Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/D4722835273E184582F2D24696A738EA">Longman Dictionary of Contemporary English</a> &bull;
+								<a class="blue" href="app://downdict/391AB9CB8E521B4593A199AF33187A62">Longman Language Activator</a> &bull;
+								<a class="blue" href="app://downdict/ED88A0715DB8E1448AEA4819D1280CEE">Collins COBUILD Advanced Learner's Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/3B8855D90572464DB0D5F330197AFAE2">American Heritage Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/C735CAD54824B1409A228EE9C19E3F29">Cambridge Advanced Learner's Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/12D98EC3940843498672A92149455292">WordNet English Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/DD900E7D1A47994CB52F0BFC7C75D11E">Merriam-Webster's Collegiate Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/064BC0137E704247895C401855B9321C">MacMillan English Dictionary - American</a> &bull;
+								<a class="blue" href="app://downdict/687C79C9CA647F4B89D4F007ED9BA68A">Webster's Unabridged Dictionary</a> &bull;
+								<a class="blue" href="app://downdict/4B1D7BC91092A64389A3D10C8106F22B">Dictionnaire de la langue française (Littré)</a> &bull;
+								<a class="blue" href="app://downdict/E0239E115B0C2744B48C1980B18A9834">Eijiro v86 English-Japanese</a> &bull;
+								<a class="blue" href="app://downdict/79A76AF19099A343BD990EC195719601">Comprehensive Dictionary of Contemporary Russian</a> &bull;
+								<a class="blue" href="app://downdict/B288B4A225537C4C9329C1A2EE848515">Le Nouveau Petit Robert de la langue française 2007</a> &bull;
+								<a class="blue" href="app://downdict/0555C20CEF20624A8CDC4115B32C6048">Investopedia Financial Terms</a>
+								<br/>
+							Online:&nbsp; <a class="blue" href="app://downdict/7284B7DA4F80514D9FEDCCA913280A77">WordNet Online </a> &bull;
+								<a class="blue" href="app://downdict/EE0B95E38BB17847AE5B00465E612602">Jukuu English Sentence </a> &bull;
+								<a class="blue" href="app://downdict/95F84E99F6A3F44584A27E33648796BF">American Heritage Dictionary Online</a> &bull;
+								<a class="blue" href="app://downdict/0895DFE8DB67F9409DB285590D870EDD">Dict.CN Online </a> &bull;
+								<a class="blue" href="app://downdict/6988859A3B46B247B9358564C7C4979E">Jukuu English-Japanese Sentence</a> &bull;
+								<a class="blue" href="app://downdict/74BF7ECCE3A9AC43B5E8902261A19B29">Hudong Wiki</a> &bull;
+								<a class="blue" href="app://downdict/681D2F0763B84A4EACEEFF51CFF1127C">Baidu Encyclopedia</a>
+								<br/>
+						</div>
+						<div id="lgsp_panel_2" style="display:none; padding:10px; line-height:200%">
+							English:&nbsp; <a class="blue" href="app://downdict/12D98EC3940843498672A92149455292">WordNet English</a> &nbsp;
+							<a class="blue" href="app://downdict/3632FA73AD8738409E3BC214D8B0E91C">Vicon English</a> &nbsp;
+							<a class="blue" href="app://downdict/2E5102682C32BA4E8623A834BA5D57E5">Roget's II: The New Thesaurus</a><br/>
+							Chinese:&nbsp; <a class="blue" href="app://downdict/E1C27E806399D047822B6650194A3D32">Vicon English-Chinese(S)</a> /
+							<a class="blue" href="app://downdict/60705A9F3503084A844B4ABE47E5D62A">Chinese(S)-English</a> /
+							<a class="blue" href="app://downdict/A57E73C4DDBB554B86D6828CA9B3D6AD">English-Chinese(T)</a> /
+							<a class="blue" href="app://downdict/878C479B64B7DD4FB7AAA10ACFE8B827">Chinese(T)-English</a> &nbsp;
+							<a class="blue" href="app://downdict/7AB175CC5F622A44A0DECE976AF22A16">Langdao E-C</a> /
+							<a class="blue" href="app://downdict/60705A9F3503084A844B4ABE47E5D62A">C-E</a> &nbsp;
+							<a class="blue" href="app://downdict/358C65BE8B34D046A23EB7C9424CAC42">Quick English-Cinese(T)</a> &nbsp;
+							<a class="blue" href="app://downdict/A54FC6C6D0E8CE49A962E9CF53C40DDE">Kangxi Dictionary</a><br/>
+							German:&nbsp; <a class="blue" href="app://downdict/0980C64697D4904A81066E9F58F9B8AD">Vicon English-German</a> /
+							<a class="blue" href="app://downdict/65A6728E3B72AA4486FB7A831861328F">German-English</a> &nbsp;
+							<a class="blue" href="app://downdict/0AB66C4B543A9A4C97FA0FF26EFFA7CC">Universal German-Russian</a> /
+							<a class="blue" href="app://downdict/427F736D383A524C9A28A7C557DE709F">Russian-German</a> &nbsp;
+							<a class="blue" href="app://downdict/EC796318219C294DA9CA5848D5AEADF5">ADO's Spanish-German</a> &nbsp;
+							<a class="blue" href="app://downdict/44FFD76B74DF51419166C5868714080C">ADO's French-German</a><br/>
+							French:&nbsp; <a class="blue" href="app://downdict/9C0753A104A2F342A1048010C8379C72">Vicon English-French</a> /
+							<a class="blue" href="app://downdict/93AA8E8C3E6985469BC8D81AACD07946">French-English</a> &nbsp;
+							<a class="blue" href="app://downdict/C7B623DE698ED74BB11469E42A0AB569">French-Chinese(S)</a> &nbsp;
+							<a class="blue" href="app://downdict/9A0EBF8F83697F4FBCA6C574D6DE5873">French Morphology and Phonetics</a> &nbsp;
+							<a class="blue" href="app://downdict/B288B4A225537C4C9329C1A2EE848515">Le Nouveau Petit Robert de la langue française 2007</a><br/>
+							Russian:&nbsp; <a class="blue" href="app://downdict/AB8E9FFF4E1B9B41A60C10CDA8820FD0">Vicon English-Russian</a> /
+							<a class="blue" href="app://downdict/F601F73B09C1874CB92B341258824768">Russian-English</a> &nbsp;
+							<a class="blue" href="app://downdict/B7715DA25C27794FAC56D0C601F05F6C">Universal English-Russian</a> /
+							<a class="blue" href="app://downdict/EF55B8E9DDE4BF429A9F05080456A8EB">Russian-English</a> &nbsp;									
+							<a class="blue" href="app://downdict/79A76AF19099A343BD990EC195719601">Comprehensive Dictionary of Contemporary Russian</a><br/>
+							Japanese:&nbsp; <a class="blue" href="app://downdict/7ADA382D1F8FF64B95CBF1525D7EAE32">Vicon English-Japanese</a> /
+							<a class="blue" href="app://downdict/7554E7109A40BE41987D0852111EDF4F">Japanese-English</a> &nbsp;
+							<a class="blue" href="app://downdict/E0239E115B0C2744B48C1980B18A9834">Eijiro v86 English-Japanese</a> /
+							<a class="blue" href="app://downdict/460B3B80B50BD54DA5422C5923F4358E">Japanese-English</a> &nbsp;
+							<a class="blue" href="app://downdict/AF795C46DEE84F46BB9F1C8507E50656">RYAKU v86</a> &nbsp;
+							<a class="blue" href="app://downdict/585FF2CF1801034A83880E2716CB718B">Chiezo 2005</a> &nbsp;
+							<a class="blue" href="app://downdict/6988859A3B46B247B9358564C7C4979E">Jukuu English-Japanese Sentence</a> &nbsp;
+							<a class="blue" href="app://downdict/6CD0A636C8E5C84D8AF7839DA8CCF049">Naver Korean-Japanese</a> /
+							<a class="blue" href="app://downdict/63332AAFE6159C448748FF073FAA1157">Japanese-Korean</a>
+							<br/>
+						</div>
+						<div id="lgsp_panel_3" style="display:none; padding:10px; line-height:200%">
+							Spanish:&nbsp; <a class="blue" href="app://downdict/CA86F2C97F729E4BB2BE8CAE30374B13">Vicon English-Spanish</a> /
+							<a class="blue" href="app://downdict/1532F6F204CB334BAABE14749C5933EB">Spanish-English</a> &nbsp;
+							<a class="blue" href="app://downdict/C72922CC0F48C44D9B370FE4D8A76912">Concise Spanish-Chinese</a> /
+							<a class="blue" href="app://downdict/9159F38D6E1D7C4D9B7B134C1148387F">Chinese-Spanish</a> &nbsp;
+							<a class="blue" href="app://downdict/2DBBE25E00F96F4286D407D7A0711F14">Universal Russian-Spanish</a> /
+							<a class="blue" href="app://downdict/D43B6DB4AF5FBF4B92C2BA1043606684">Spanish-Russian</a>
+							<br/>
+							Portuguese:&nbsp; <a class="blue" href="app://downdict/2B9B25A82E4A5E40BFB64F353132303E">Vicon English-Portuguese</a> /
+							<a class="blue" href="app://downdict/7DAD2F56F8A64C4C97850DFF34AFC896">Portuguese-English</a> &nbsp;
+							<a class="blue" href="app://downdict/F4AE3D8DACE33F44AD2DA65A47D3C0AA">Brazilian Portuguese-English</a> /
+							<a class="blue" href="app://downdict/61D73DA874080F42A298A7D1E576B13A">English-Brazilian Portuguese</a> &nbsp;
+							<a class="blue" href="app://downdict/23AEE6C3808C534CAE4E506B9875E82C">Portuguese-Chinese</a>
+							<br/>
+							Italian:&nbsp; <a class="blue" href="app://downdict/CDBD374919A2D949B3D0A41EAC2D18FA">Vicon English-Italian</a> /
+							<a class="blue" href="app://downdict/67DC0D30C631544BAF9CD68D62357549">Italian-English</a> &nbsp;
+							<a class="blue" href="app://downdict/131BB9362CED1042BAE4C53B269ED7B8">Universal Italian-Russian</a> /
+							<a class="blue" href="app://downdict/A64BB6017D104A48BD6443B1AE07C2A7">Russian-Italian</a> &nbsp;
+							<a class="blue" href="app://downdict/3EAB8E95915F36408EB4FBDD19B6AE2B">Italian-Portuguese</a> /
+							<a class="blue" href="app://downdict/0001C741E2C5F8448E93674848135387">Portuguese-Italian</a>
+							<br/>
+							Korean:&nbsp; <a class="blue" href="app://downdict/EC6484D92F9A3049A572C46EF51F8702">Vicon English-Korean</a> /
+							<a class="blue" href="app://downdict/2B869D17F169214F845EAD650F88AB18">Vicon Korean-English</a> &nbsp;
+							<a class="blue" href="app://downdict/87DEF3A80CF8EE4CBEB51CE73CD698FC">Concise English-Korean</a> /
+							<a class="blue" href="app://downdict/E17CA6C5A0A15A4C9472A61301CC60F8">Korean-English</a> &nbsp;
+							<a class="blue" href="app://downdict/A037A6BE5845D94CAF4D1BFCD2A5F4B4">Naver English-Korean</a> / 
+								<a class="blue" href="app://downdict/5E6AC89562AE4F4FB166B4C974C5225A">Korean-English</a> / 
+							<a class="blue" href="app://downdict/25650F41DC756C4C932CC3887AC8A870">Korean-Chinese</a> /
+							<a class="blue" href="app://downdict/1D0CC9E70D32F5459C133B7FFC59B26E">Chinese-Korean</a>
+							<br/>
+							Arabic:&nbsp; <a class="blue" href="app://downdict/C7DB7F0A6251F94BA81E6290B60232CC">Vicon English-Arabic</a> /
+							<a class="blue" href="app://downdict/0686B4A12450F84F9506FE31F3207E79">Arabic-English</a> &nbsp;
+							<a class="blue" href="app://downdict/55612764DE242740AF5C648CFFEEC426">Arabic-Russian</a> /
+							<a class="blue" href="app://downdict/F3933FA6B0E43D41B8711E2C7F384724">Russian-Arabic</a>
+							<br/>
+							Vietnamese:&nbsp; <a class="blue" href="app://downdict/A118099F78E32348B6190AED59DBECCA">Free English-Vietnamese</a> /
+							<a class="blue" href="app://downdict/1B8069EA04C56945B70002CAEBCE1312">Vietnamese-English</a> /
+							<a class="blue" href="app://downdict/D707C20E33F203439A7451D7A6AC468C">Chinese-Vietnamese</a> &nbsp;
+							<a class="blue" href="app://downdict/F14B862271A825459D9D4F161BAF4B3C">OVDP French-Vietnamese</a> /
+							<a class="blue" href="app://downdict/B2160C577FA5FD479F863AC5A1065C82">German-Vietnamese </a> /
+							<a class="blue" href="app://downdict/D2B4817958C3E644B3B2B6788B9B9E1C">Japanese-Vietnamese</a>
+							<br/>
+						</div>
+					</div>
+				</div>
+				]]>
+      </content>
+    </item>
+
+  </Info>
+</update>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<upnow time="2015-10-06 01:01:01">
+	<now>
+		<cmd act="unzip_all" zipfile="http://www.lingoes.net/update/19/file/image_en.zip" destname="[$ImgPath]download" md5="727074E5BBB09429C954F7703D563C32" filter_ver="&gt;=:2.9.0" />
+		<cmd act="copy_file" srcname="http://www.lingoes.net/update/19/file/def_EA8BE1CEC6BCAD41A4BAF7705F2AF5E6.ldx" destname="[$DictPath]def_EA8BE1CEC6BCAD41A4BAF7705F2AF5E6.ldx" overwrite="y" md5="E2FAE8DAA32402FBE67E1DF041106DC4" />
+		<cmd act="update_dict" name="http://www.lingoes.net/update/19/file/Text Translation.ld2" dictid="54BDECB4CEEAB74D9F8BED8AF043163D" enablequery="a" enableindex="n" enablegrab="n" md5="411EB97C728563162D02E0836CEEFC46"/>
+	</now>
+</upnow>

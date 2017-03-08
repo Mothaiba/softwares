@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<tip update="2014-08-16 01:01:01">
+	<version id="2.8.1-us|2.9.0-us|2.9.1-us|2.9.2-us">
+		<lang id="en">
+			<popup_page>
+				<timer begin="300" step="21600" loop="y" order="1" always_show="n" />
+				<content type="url" window_style="0x00" width="250" height="250" align="rb" show_time="30" title="Lingoes Tip of the Day">http://www.lingoes.net/en/translator/popup_tip.htm</content>
+			</popup_page>
+		</lang>
+		<lang id="zh-CN|zh-TW">
+			<popup_page>
+				<timer begin="300" step="21600" loop="y" order="1" always_show="n" />
+				<content type="url" window_style="0x00" width="250" height="250" align="rb" show_time="30" title="Lingoes Tip of the Day">http://www.lingoes.cn/zh/translator/popup_tip.htm</content>
+				<!--
+				<content type="url" window_style="0x00" width="250" height="250" align="rb" show_time="30" title="Lingoes Tip of the Day">http://www.lingoes.cn/zh/translator/trans_downsoft.php?id=10</content>
+				-->
+			</popup_page>
+		</lang>
+	</version>
+</tip>
